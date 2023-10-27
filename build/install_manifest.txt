@@ -1,0 +1,9 @@
+/home/zakzak/catkin_ws/install/_setup_util.py
+/home/zakzak/catkin_ws/install/env.sh
+/home/zakzak/catkin_ws/install/setup.bash
+/home/zakzak/catkin_ws/install/local_setup.bash
+/home/zakzak/catkin_ws/install/setup.sh
+/home/zakzak/catkin_ws/install/local_setup.sh
+/home/zakzak/catkin_ws/install/setup.zsh
+/home/zakzak/catkin_ws/install/local_setup.zsh
+/home/zakzak/catkin_ws/install/.rosinstall
